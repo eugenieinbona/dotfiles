@@ -1,16 +1,30 @@
 {
-  "installed_packages":
-  [
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "Babel",
-    "Emmet",
-    "ERB Snippets",
-    "Git",
-    "GitGutter",
-    "Package Control",
-    "SCSS",
-    "SublimeLinter",
-    "SublimeLinter-rubocop"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Babel",
+		"Babel Snippets",
+		"Bemmet",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"GitTimeMetric",
+		"Laravel Blade AutoComplete",
+		"MatlabFilenameAutoComplete",
+		"Package Control",
+		"Polymer & Web Component Snippets",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"SublimeLinter-contrib-php-cs-fixer",
+		"SublimeLinter-contrib-sublime-syntax",
+		"SublimeLinter-eslint",
+		"SublimeLinter-rubocop"
+	]
 }
